@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab_final_test</string>
+    <string-array name="ticket_type_spinner">
+        <item>Select Ticket</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+</resources>
